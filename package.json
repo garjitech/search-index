@@ -9,7 +9,7 @@
   "dependencies": {
     "JSONStream": "0.10.0",
     "async": "0.9.0",
-    "bunyan": "1.3.5",
+    "jh-bunyan": "1.0.1",
     "colors": "1.1.0",
     "level-js": "2.1.6",
     "level-multiply": "0.0.1",
